@@ -1,5 +1,5 @@
 # HTML
-HTML stands for Hypertext Markup Language, and it is the most widely used language to 
+HTML stands for #Hypertext Markup Language, and it is the most widely used language to 
 write Web Pages. 
 
 • Hypertext refers to the way in which Web pages (HTML documents) are linked 
