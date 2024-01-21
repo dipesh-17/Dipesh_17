@@ -6,7 +6,7 @@ write Web Pages.
 together. Thus, the link available on a webpage is called Hypertext. 
  
 • As its name suggests, HTML is a Markup Language which means you use HTML to 
-simply "mark-up" a text document with tags that tell a Web browser how to structure 
+simply "mark up" a text document with tags that tell a Web browser how to structure 
 it to display. 
 
 Originally, HTML was developed with the intent of defining the structure of documents like 
